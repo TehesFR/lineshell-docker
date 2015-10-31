@@ -17,6 +17,7 @@ echo "Starting MongoDB..."
 /usr/bin/mongod --dbpath /data --auth --nojournal --smallfiles &
 fi ;
 
+# Wait for mongodb to start
 while ! nc -vz localhost 27017; do sleep 1; done
 
 # Start Nodejs server.js
