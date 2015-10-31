@@ -1,5 +1,3 @@
-** Not yet ready for use **
-
 # lineshell-docker
 
 Lineshell is an open source project to manage servers and execute scripts on them, keeping a complete history of all executions results. It is based on Node.js and Mongodb.
