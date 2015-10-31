@@ -1,3 +1,5 @@
+** Not yet ready for use **
+
 # lineshell-docker
 
 ![Docker L](https://raw.githubusercontent.com/docker/docker/master/docs/static_files/docker-logo-compressed.png "Docker")
